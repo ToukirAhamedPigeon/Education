@@ -33,7 +33,7 @@ namespace MultiviewForm
           
             string sql = "INSERT INTO Students VALUES ('" + TextBoxId.Text + "','" + TextBoxName.Text + "','" + TextBoxEmail.Text + "'," + TextBoxCgpa.Text + "," + TextBoxDeptId.Text + ")";
             // string connStr=@"data source=DESKTOP-CKU87KC\SQLSRV2012; initial catalog=Sample; user id=SA; password=P@$$w0rd;";
-            string connStr = @"server=172.16.7.40; database=Sample; user id=student; password=student;";
+            string connStr = @"server=.\SQLEXPRESS; database=Sample; user id=sa; password=Pigeon12@;";
             SqlConnection conn = new SqlConnection(connStr);
            
             SqlCommand cmd = new SqlCommand(sql, conn);

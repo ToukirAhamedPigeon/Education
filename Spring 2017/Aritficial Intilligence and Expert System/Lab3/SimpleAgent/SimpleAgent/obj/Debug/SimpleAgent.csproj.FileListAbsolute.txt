@@ -1,0 +1,6 @@
+C:\Users\touki\Desktop\AI Lab3\SimpleAgent\SimpleAgent\bin\Debug\SimpleAgent.exe.config
+C:\Users\touki\Desktop\AI Lab3\SimpleAgent\SimpleAgent\bin\Debug\SimpleAgent.exe
+C:\Users\touki\Desktop\AI Lab3\SimpleAgent\SimpleAgent\bin\Debug\SimpleAgent.pdb
+C:\Users\touki\Desktop\AI Lab3\SimpleAgent\SimpleAgent\obj\Debug\SimpleAgent.csprojResolveAssemblyReference.cache
+C:\Users\touki\Desktop\AI Lab3\SimpleAgent\SimpleAgent\obj\Debug\SimpleAgent.exe
+C:\Users\touki\Desktop\AI Lab3\SimpleAgent\SimpleAgent\obj\Debug\SimpleAgent.pdb

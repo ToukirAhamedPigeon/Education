@@ -3,3 +3,8 @@ C:\Users\student\Desktop\MultiviewForm\MultiviewForm\bin\MultiviewForm.pdb
 C:\Users\student\Desktop\MultiviewForm\MultiviewForm\obj\Debug\MultiviewForm.csprojResolveAssemblyReference.cache
 C:\Users\student\Desktop\MultiviewForm\MultiviewForm\obj\Debug\MultiviewForm.dll
 C:\Users\student\Desktop\MultiviewForm\MultiviewForm\obj\Debug\MultiviewForm.pdb
+C:\Users\touki\Desktop\Education\Spring 2017\Dot Net\Program\MultiviewForm\MultiviewForm\bin\MultiviewForm.dll
+C:\Users\touki\Desktop\Education\Spring 2017\Dot Net\Program\MultiviewForm\MultiviewForm\bin\MultiviewForm.pdb
+C:\Users\touki\Desktop\Education\Spring 2017\Dot Net\Program\MultiviewForm\MultiviewForm\obj\Debug\MultiviewForm.csprojResolveAssemblyReference.cache
+C:\Users\touki\Desktop\Education\Spring 2017\Dot Net\Program\MultiviewForm\MultiviewForm\obj\Debug\MultiviewForm.dll
+C:\Users\touki\Desktop\Education\Spring 2017\Dot Net\Program\MultiviewForm\MultiviewForm\obj\Debug\MultiviewForm.pdb
