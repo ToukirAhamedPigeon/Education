@@ -4,3 +4,6 @@ C:\Users\touki\Desktop\AI Lab3\SmartAgent\SmartAgent\bin\Debug\SmartAgent.pdb
 C:\Users\touki\Desktop\AI Lab3\SmartAgent\SmartAgent\obj\Debug\SmartAgent.csprojResolveAssemblyReference.cache
 C:\Users\touki\Desktop\AI Lab3\SmartAgent\SmartAgent\obj\Debug\SmartAgent.exe
 C:\Users\touki\Desktop\AI Lab3\SmartAgent\SmartAgent\obj\Debug\SmartAgent.pdb
+C:\Users\touki\Desktop\Education\Spring 2017\Aritficial Intilligence and Expert System\Lab3\SmartAgent\SmartAgent\bin\Debug\SmartAgent.exe.config
+C:\Users\touki\Desktop\Education\Spring 2017\Aritficial Intilligence and Expert System\Lab3\SmartAgent\SmartAgent\obj\Debug\SmartAgent.exe
+C:\Users\touki\Desktop\Education\Spring 2017\Aritficial Intilligence and Expert System\Lab3\SmartAgent\SmartAgent\obj\Debug\SmartAgent.pdb

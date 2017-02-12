@@ -62,7 +62,10 @@ namespace SimpleAgent
                     Console.WriteLine("Wrong Action");
                     Console.WriteLine("Press 0 to off or 1 to work");
                 }
+                
+                                    
             }
         }
     }
 }
+
