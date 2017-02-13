@@ -11,7 +11,11 @@ namespace List
         string[] list=new string[100];
         static void command(string cmd)
         {
+            if(cmd.ToLower().Contains(','))
+            {
+                string[] parts = cmd.Split(',');
 
+            }
         }
         static void Main(string[] args)
         {
@@ -25,7 +29,13 @@ namespace List
             {
                 Console.Write("Command: ");
                 cmd = Console.ReadLine();
-                command(cmd);
+                if (cmd!="CLOSE") {
+                    command(cmd);
+                }
+                else
+                {
+                    break;
+                }
             }
         }
     }
