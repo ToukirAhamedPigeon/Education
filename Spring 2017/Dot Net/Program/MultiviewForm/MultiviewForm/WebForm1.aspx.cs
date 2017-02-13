@@ -20,7 +20,14 @@ namespace MultiviewForm
 
         protected void ButtonNxt_Click(object sender, EventArgs e)
         {
-            MultiView1.ActiveViewIndex++;
+            if (Page.IsValid)
+            {
+                MultiView1.ActiveViewIndex++;
+            }
+            else
+            {
+                MultiView1.ActiveViewIndex = MultiView1.ActiveViewIndex;
+            }
         }
 
         protected void ButtonBack_Click(object sender, EventArgs e)
@@ -60,7 +67,14 @@ namespace MultiviewForm
 
         protected void ButtonNxt2_Click(object sender, EventArgs e)
         {
-            MultiView1.ActiveViewIndex++;
+            if (Page.IsValid)
+            {
+                MultiView1.ActiveViewIndex++;
+            }
+            else
+            {
+                MultiView1.ActiveViewIndex = MultiView1.ActiveViewIndex;
+            };
         }
 
         protected void ButtonBack2_Click(object sender, EventArgs e)

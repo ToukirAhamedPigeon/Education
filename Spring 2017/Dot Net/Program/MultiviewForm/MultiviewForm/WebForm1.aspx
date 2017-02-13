@@ -13,23 +13,33 @@
             <asp:View ID="View1" runat="server">
                 <asp:Label ID="Label1" runat="server" Text="Name: "></asp:Label>
                 <asp:TextBox ID="TextBoxName" runat="server"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidatorName" runat="server" 
+                    ErrorMessage="*name is requiered" ControlToValidate="TextBoxName" ForeColor="#FF3300"></asp:RequiredFieldValidator>
                 <br />
                 <asp:Label ID="Label2" runat="server" Text="Email: "></asp:Label>
                 <asp:TextBox ID="TextBoxEmail" runat="server"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidatorEmail" runat="server"
+                     ErrorMessage="*email is requiered" ControlToValidate="TextBoxEmail" ForeColor="#FF3300"></asp:RequiredFieldValidator>
                 <br />
                 <asp:Button ID="ButtonNxt" runat="server" Text="Next" OnClick="ButtonNxt_Click" />  
             </asp:View>
         <asp:View ID="View2" runat="server">
                 <asp:Label ID="Label3" runat="server" Text="ID: "></asp:Label>
                 <asp:TextBox ID="TextBoxId" runat="server"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidatorID" runat="server" 
+                    ErrorMessage="*id is requiered" ControlToValidate="TextBoxId" ForeColor="#FF3300"></asp:RequiredFieldValidator>
                 <br />
                 <asp:Label ID="Label4" runat="server" Text="Dept ID: "></asp:Label>
                 <asp:TextBox ID="TextBoxDeptId" runat="server"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidatorDept" runat="server" 
+                    ErrorMessage="*department id is requiered" ControlToValidate="TextBoxDeptId" ForeColor="#FF3300"></asp:RequiredFieldValidator>
                 <br />
                 <asp:Label ID="Label5" runat="server" Text="CGPA: "></asp:Label>
                 <asp:TextBox ID="TextBoxCgpa" runat="server"></asp:TextBox>
-                <br />
-                <asp:Button ID="ButtonBack" runat="server" Text="Back" OnClick="ButtonBack_Click" /> 
+                <asp:RequiredFieldValidator ID="RequiredFieldValidatorCGPA" runat="server" 
+                 ErrorMessage="*cgpa is required" ControlToValidate="TextBoxCgpa" ForeColor="#FF3300"></asp:RequiredFieldValidator>
+            <br />    
+            <asp:Button ID="ButtonBack" runat="server" Text="Back" OnClick="ButtonBack_Click" /> 
                 <asp:Button ID="ButtonNxt2" runat="server" Text="Next" OnClick="ButtonNxt2_Click" /> 
             </asp:View>
         <asp:View ID="View3" runat="server">
