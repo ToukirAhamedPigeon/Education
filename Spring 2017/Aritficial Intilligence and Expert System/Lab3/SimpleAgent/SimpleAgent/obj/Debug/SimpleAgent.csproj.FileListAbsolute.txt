@@ -8,3 +8,5 @@ C:\Users\touki\Desktop\Education\Spring 2017\Aritficial Intilligence and Expert 
 C:\Users\touki\Desktop\Education\Spring 2017\Aritficial Intilligence and Expert System\Lab3\SimpleAgent\SimpleAgent\obj\Debug\SimpleAgent.exe
 C:\Users\touki\Desktop\Education\Spring 2017\Aritficial Intilligence and Expert System\Lab3\SimpleAgent\SimpleAgent\obj\Debug\SimpleAgent.pdb
 C:\Users\touki\Desktop\Education\Spring 2017\Aritficial Intilligence and Expert System\Lab3\SimpleAgent\SimpleAgent\obj\Debug\SimpleAgent.csprojResolveAssemblyReference.cache
+C:\Users\touki\Desktop\Education\Spring 2017\Aritficial Intilligence and Expert System\Lab3\SimpleAgent\SimpleAgent\bin\Debug\SimpleAgent.exe
+C:\Users\touki\Desktop\Education\Spring 2017\Aritficial Intilligence and Expert System\Lab3\SimpleAgent\SimpleAgent\bin\Debug\SimpleAgent.pdb
